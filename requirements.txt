@@ -1,0 +1,12 @@
+# requirements.txt
+numpy
+opencv-python
+scikit-image
+scikit-learn
+torch
+torchvision
+albumentations
+matplotlib
+tqdm
+shapely
+pandas
